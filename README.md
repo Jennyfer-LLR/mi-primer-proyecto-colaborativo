@@ -10,3 +10,5 @@ Aprender a utilizar Git y GitHub para gestionar versiones de un proyecto y traba
 - Git
 - GitHub
 - Visual Studio Code
+- Branch
+- Merge
